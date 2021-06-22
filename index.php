@@ -13,7 +13,7 @@
 	<br>
 	<br>
 	<br>
-	<h4><center><FONT SIZE=10 color=FFFEFC>Elija el tipo de Usuario que es</font> </center></h4>
+	
 <div>
 	<center>
 		<img src="img/logouni.png" alt="" id="logo">
