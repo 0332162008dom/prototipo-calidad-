@@ -9,7 +9,7 @@
 
 </head>
 <body >
-	<h1><center><FONT SIZE=40 color=FB891E>BIENBENIDO</font> </center></h1>
+	<h1><center><FONT SIZE=40 color=FB891E>BIENBENIDO A LA PLATAFORMA</font> </center></h1>
 	<br>
 	<br>
 	<br>
