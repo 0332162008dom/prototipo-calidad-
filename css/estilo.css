@@ -1,0 +1,23 @@
+body{
+
+background-image: url("../img/Fondo1.jpg");
+background-size: cover;
+background-repeat:repeat-y;
+padding:0px; 
+margin-top:0px;
+margin:0px;
+
+}
+#grupo{
+	background-color: lightgray;
+	border-radius:15px;
+	margin: auto; 
+width:500px;
+
+}
+.control{
+
+
+
+	height:30px;
+}
